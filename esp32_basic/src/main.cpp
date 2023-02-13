@@ -1,8 +1,8 @@
 #include "RESTuino/restuino_func.h"
 
 uint8_t len_ssid = 1;
-const char *ssid_def[] = {"SVDLab-link"};
-const char *ssid_pass[] = {"0zuno224"};
+const char *ssid_def[] = {"＊＊＊＊＊＊＊"};
+const char *ssid_pass[] = {"＊＊＊＊＊＊＊"};
 
 static RestuinoFunc func;
 
